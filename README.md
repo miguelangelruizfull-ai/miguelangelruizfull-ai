@@ -15,6 +15,22 @@ Mi enfoque es convertir problemas cotidianos —información dispersa, procesos 
 - Diseño flujos asistidos por IA con validación y trazabilidad.
 - Conecto contenido, información y seguimiento con objetivos comerciales.
 
+## Trayectoria y formación
+
+### Ingeniería en Sistemas Computacionales
+**Instituto Tecnológico Superior de Tepeaca**
+
+Estudios concluidos y carta de pasante. Sin título profesional.
+
+La formación técnica formal se combina hoy con proyectos web, sistemas de información, automatización y tecnología aplicada a problemas operativos reales.
+
+### Nissan / Excelencia Japonesa — 2013
+**Asesor Profesional de Ventas · Sucursal Diagonal, Puebla**
+
+Existe evidencia documental de actividad comercial durante 2013 en venta de vehículos nuevos, elaboración y seguimiento de cotizaciones, orientación sobre alternativas de compra/financiamiento y seguimiento de prospectos.
+
+El periodo exacto completo sigue en reconstrucción; el portafolio solo utiliza el intervalo respaldado por evidencia.
+
 ## Proyectos destacados
 
 ### AFL AUTOS — transformación de una operación comercial
