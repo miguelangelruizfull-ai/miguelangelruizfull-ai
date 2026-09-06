@@ -2,6 +2,8 @@
 
 **Operaciones digitales · Automatización con IA · Sistemas de información · Desarrollo web práctico**
 
+[**Ver portafolio profesional →**](https://miguelangelruizfull-ai.github.io/)
+
 Trabajo en la intersección entre operación real, organización de información, procesos, herramientas web y automatización asistida por IA.
 
 Mi enfoque es convertir problemas cotidianos —información dispersa, procesos manuales, seguimiento inconsistente o dependencia de memoria— en sistemas más claros, trazables, reutilizables y medibles.
@@ -41,21 +43,16 @@ Trabajo realizado en áreas como estructura de información por vehículo, docum
 
 > El sistema operativo actual es privado. El portafolio público muestra únicamente evidencia sanitizada y aprendizajes transferibles.
 
-### Album Digital
+### Album Digital — proyecto web open source
 
-Proyecto web abierto para crear álbumes digitales de fotografías y videos como producto reutilizable y configurable.
+Plantilla web reutilizable para organizar fotografías y videos separando el contenido privado de la base técnica del producto.
 
-**Tecnologías:** HTML5 · CSS3 · JavaScript · JSON · GitHub Pages
+**Tecnologías aplicadas:** HTML5 · CSS3 · JavaScript · JSON · GitHub Pages
 
-- [Repositorio](https://github.com/miguelangelruizfull-ai/Album_Digital)
-- [Demo](https://miguelangelruizfull-ai.github.io/Album_Digital/)
+- [Demo de Album Digital](https://miguelangelruizfull-ai.github.io/Album_Digital/)
+- [Código fuente en GitHub](https://github.com/miguelangelruizfull-ai/Album_Digital)
 
-### album_MiguelAngelRuiz
-
-Implementación personal derivada de Album Digital. Sirve como evidencia de aplicación real y evolución del producto base.
-
-- [Repositorio](https://github.com/miguelangelruizfull-ai/album_MiguelAngelRuiz)
-- [Demo](https://miguelangelruizfull-ai.github.io/album_MiguelAngelRuiz/)
+La implementación personal que dio origen al proyecto se conserva únicamente como evidencia histórica y no se utiliza como pieza principal de reclutamiento.
 
 ## Cómo trabajo
 
@@ -89,8 +86,10 @@ Medir y mejorar
 
 Estoy construyendo una trayectoria orientada a roles donde pueda aportar en operaciones digitales, AI Operations, automatización de procesos, Product/Project Operations, Marketing Operations, gestión de información y desarrollo web práctico orientado a negocio.
 
-## Portafolio
+## Portafolio y contacto profesional
 
-**[miguelangelruizfull-ai.github.io](https://miguelangelruizfull-ai.github.io/)**
+- [Portafolio profesional — Miguel Ángel Ruiz Ramírez](https://miguelangelruizfull-ai.github.io/)
+- [Album Digital — proyecto web open source](https://miguelangelruizfull-ai.github.io/Album_Digital/)
+- [Repositorios públicos en GitHub](https://github.com/miguelangelruizfull-ai?tab=repositories)
 
 Cada caso busca explicar problema, responsabilidad, decisiones, herramientas, resultado verificable, aprendizajes y siguiente evolución.
