@@ -33,6 +33,8 @@ Existe evidencia documental de actividad comercial durante 2013 en venta de veh�
 
 El periodo exacto completo sigue en reconstrucción; el portafolio solo utiliza el intervalo respaldado por evidencia.
 
+También existe evidencia visual histórica de trabajo técnico en electrónica y fabricación. Esa etapa no se publica con fechas, cargos ni alcances definitivos hasta completar su corroboración.
+
 ## Proyectos destacados
 
 ### AFL AUTOS — transformación de una operación comercial
@@ -53,6 +55,10 @@ Plantilla web reutilizable para organizar fotografías y videos separando el con
 - [Código fuente en GitHub](https://github.com/miguelangelruizfull-ai/Album_Digital)
 
 La implementación personal que dio origen al proyecto se conserva únicamente como evidencia histórica y no se utiliza como pieza principal de reclutamiento.
+
+### Tapas Miguel — caso histórico en reconstrucción
+
+Caso histórico que conecta fabricación práctica, documentación y una línea de digitalización. Se mantiene visible únicamente como caso en reconstrucción; fechas, alcance exacto y resultados no se amplían sin evidencia suficiente.
 
 ## Cómo trabajo
 
