@@ -14,51 +14,9 @@ Mi enfoque es convertir problemas cotidianos —información dispersa, procesos 
 - Diseño fuentes de verdad y estructuras de información.
 - Construyo herramientas web ligeras para necesidades reales.
 - Uso GitHub y Drive como infraestructura de control, evidencia y continuidad.
-- Diseño flujos asistidos por IA con validación y trazabilidad.
-- Conecto contenido, información y seguimiento con objetivos comerciales.
-
-## Trayectoria y formación
-
-### Ingeniería en Sistemas Computacionales
-**Instituto Tecnológico Superior de Tepeaca**
-
-Estudios concluidos y carta de pasante. Sin título profesional.
-
-La formación técnica formal se combina hoy con proyectos web, sistemas de información, automatización y tecnología aplicada a problemas operativos reales.
-
-### Nissan / Excelencia Japonesa — 2013
-**Asesor Profesional de Ventas · Sucursal Diagonal, Puebla**
-
-Existe evidencia documental de actividad comercial durante 2013 en venta de vehículos nuevos, elaboración y seguimiento de cotizaciones, orientación sobre alternativas de compra/financiamiento y seguimiento de prospectos.
-
-El periodo exacto completo sigue en reconstrucción; el portafolio solo utiliza el intervalo respaldado por evidencia.
-
-También existe evidencia visual histórica de trabajo técnico en electrónica y fabricación. Esa etapa no se publica con fechas, cargos ni alcances definitivos hasta completar su corroboración.
-
-## Proyectos destacados
-
-### AFL AUTOS — transformación de una operación comercial
-
-Caso en evolución para convertir un flujo manual de inventario, contenido, archivos, publicaciones y seguimiento comercial en un sistema más organizado y trazable.
-
-Trabajo realizado en áreas como estructura de información por vehículo, documentación de procesos, contenido multicanal, organización GitHub + Drive, validación de datos y automatización asistida por IA.
-
-> El sistema operativo actual es privado. El portafolio público muestra únicamente evidencia sanitizada y aprendizajes transferibles.
-
-### Album Digital — proyecto web open source
-
-Plantilla web reutilizable para organizar fotografías y videos separando el contenido privado de la base técnica del producto.
-
-**Tecnologías aplicadas:** HTML5 · CSS3 · JavaScript · JSON · GitHub Pages
-
-- [Demo de Album Digital](https://miguelangelruizfull-ai.github.io/Album_Digital/)
-- [Código fuente en GitHub](https://github.com/miguelangelruizfull-ai/Album_Digital)
-
-La implementación personal que dio origen al proyecto se conserva únicamente como evidencia histórica y no se utiliza como pieza principal de reclutamiento.
-
-### Tapas Miguel — caso histórico en reconstrucción
-
-Caso histórico que conecta fabricación práctica, documentación y una línea de digitalización. Se mantiene visible únicamente como caso en reconstrucción; fechas, alcance exacto y resultados no se amplían sin evidencia suficiente.
+- Diseño flujos asistidos por IA con validación, guardrails y trazabilidad.
+- Conecto información, seguimiento y automatización con objetivos de negocio.
+- Separo información privada, sanitizada y publicable desde el diseño.
 
 ## Cómo trabajo
 
@@ -75,27 +33,58 @@ Diseñar el flujo
     ↓
 Construir una herramienta o sistema
     ↓
-Documentar
+Documentar y validar
     ↓
 Automatizar
     ↓
 Medir y mejorar
 ```
 
+## Capacidades aplicadas
+
+**Operaciones y sistemas**
+- mapeo de procesos y dependencias;
+- fuentes de verdad, estados y handoffs;
+- continuidad entre herramientas y equipos;
+- documentación operativa y técnica.
+
+**Web y automatización**
+- HTML, CSS y JavaScript;
+- Git, GitHub y GitHub Pages;
+- estructuras JSON;
+- automatización asistida por IA;
+- diseño de interfaces ligeras para operación real.
+
+**Información y control**
+- organización de datos e históricos;
+- privacidad por diseño;
+- separación entre RAW privado, información sanitizada y material publicable;
+- validación humana antes de acciones sensibles.
+
+## Trayectoria y formación
+
+### Ingeniería en Sistemas Computacionales
+**Instituto Tecnológico Superior de Tepeaca**
+
+Estudios concluidos y carta de pasante. Sin título profesional.
+
+### Nissan / Excelencia Japonesa — 2013
+**Asesor Profesional de Ventas · Puebla**
+
+Existe evidencia documental de actividad comercial durante 2013 en venta de vehículos nuevos, elaboración y seguimiento de cotizaciones y atención de prospectos.
+
 ## Herramientas y tecnologías
 
-**Aplicadas en proyectos:** Git · GitHub · HTML · CSS · JavaScript · JSON · GitHub Pages · Google Drive · documentación técnica y operativa · automatización de workflows · IA aplicada a procesos.
+**Aplicadas:** Git · GitHub · HTML · CSS · JavaScript · JSON · GitHub Pages · Google Drive · documentación técnica y operativa · automatización de workflows · IA aplicada a procesos.
 
-**En formación progresiva:** Python para automatización y datos · APIs/HTTP · SQL · análisis de datos y métricas.
+**En formación progresiva:** Python · APIs/HTTP · SQL · análisis de datos y métricas.
+
+## Evidencia profesional
+
+El perfil público prioriza capacidades, problemas resueltos y forma de trabajo. Los repositorios, demos, casos y evidencias vinculados con operaciones reales se comparten de manera selectiva cuando son pertinentes para una evaluación profesional.
+
+No se publican aquí clientes, proyectos privados, material familiar, datos operativos internos ni arquitectura sensible.
 
 ## Dirección profesional
 
-Estoy construyendo una trayectoria orientada a roles donde pueda aportar en operaciones digitales, AI Operations, automatización de procesos, Product/Project Operations, Marketing Operations, gestión de información y desarrollo web práctico orientado a negocio.
-
-## Portafolio y contacto profesional
-
-- [Portafolio profesional — Miguel Ángel Ruiz Ramírez](https://miguelangelruizfull-ai.github.io/)
-- [Album Digital — proyecto web open source](https://miguelangelruizfull-ai.github.io/Album_Digital/)
-- [Repositorios públicos en GitHub](https://github.com/miguelangelruizfull-ai?tab=repositories)
-
-Cada caso busca explicar problema, responsabilidad, decisiones, herramientas, resultado verificable, aprendizajes y siguiente evolución.
+Orientación a roles de operaciones digitales, AI Operations, automatización de procesos, Product/Project Operations, Marketing Operations, gestión de información y desarrollo web práctico orientado a negocio.
