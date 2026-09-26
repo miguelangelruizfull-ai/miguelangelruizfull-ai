@@ -67,11 +67,6 @@ Medir y mejorar
 
 **En formación progresiva:** Python · APIs/HTTP · SQL · análisis de datos y métricas.
 
-## Evidencia profesional
-
-El perfil público prioriza capacidades, problemas resueltos y forma de trabajo. Los repositorios, demos, casos y evidencias vinculados con operaciones reales se comparten de manera selectiva cuando son pertinentes para una evaluación profesional.
-
-No se publican aquí clientes, proyectos privados, material familiar, datos operativos internos ni arquitectura sensible.
 
 ## Dirección profesional
 
