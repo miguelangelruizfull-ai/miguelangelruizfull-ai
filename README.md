@@ -61,18 +61,6 @@ Medir y mejorar
 - separación entre RAW privado, información sanitizada y material publicable;
 - validación humana antes de acciones sensibles.
 
-## Trayectoria y formación
-
-### Ingeniería en Sistemas Computacionales
-**Instituto Tecnológico Superior de Tepeaca**
-
-Estudios concluidos y carta de pasante. Sin título profesional.
-
-### Nissan / Excelencia Japonesa — 2013
-**Asesor Profesional de Ventas · Puebla**
-
-Existe evidencia documental de actividad comercial durante 2013 en venta de vehículos nuevos, elaboración y seguimiento de cotizaciones y atención de prospectos.
-
 ## Herramientas y tecnologías
 
 **Aplicadas:** Git · GitHub · HTML · CSS · JavaScript · JSON · GitHub Pages · Google Drive · documentación técnica y operativa · automatización de workflows · IA aplicada a procesos.
