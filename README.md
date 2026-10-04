@@ -71,3 +71,19 @@ Medir y mejorar
 ## Dirección profesional
 
 Orientación a roles de operaciones digitales, AI Operations, automatización de procesos, Product/Project Operations, Marketing Operations, gestión de información y desarrollo web práctico orientado a negocio.
+
+
+## Proyectos, colaboraciones y referidos
+
+Estoy disponible para proyectos pequeños, pilotos y colaboraciones relacionados con:
+
+- organización de procesos e información;
+- herramientas web internas;
+- inventarios y seguimiento operativo;
+- automatización práctica con IA y validación humana;
+- continuidad entre Drive, GitHub, WhatsApp y otras herramientas de trabajo.
+
+Si conoces un negocio con información, archivos o seguimiento repartidos entre varias herramientas, una presentación directa puede ser suficiente para revisar el problema y proponer una primera solución pequeña y verificable.
+
+- [Portafolio profesional](https://miguelangelruizfull-ai.github.io/)
+- [Caso aplicado y evidencia técnica](https://miguelangelruizfull-ai.github.io/AFL_AUTOS_LOCAL/PORTAFOLIO/)
