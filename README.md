@@ -2,7 +2,7 @@
 
 **Operaciones digitales · Automatización con IA · Sistemas de información · Desarrollo web práctico**
 
-[**Ver portafolio profesional →**](https://miguelangelruizfull-ai.github.io/) · [**LinkedIn →**](https://www.linkedin.com/in/miguel-angel-ruiz-ramirez-8a5991370)
+[**Ver portafolio profesional →**](https://miguelangelruizfull-ai.github.io/) · [**Servicios →**](https://miguelangelruizfull-ai.github.io/servicios.html) · [**LinkedIn →**](https://www.linkedin.com/in/miguel-angel-ruiz-ramirez-8a5991370)
 
 Trabajo en la intersección entre operación real, organización de información, procesos, herramientas web y automatización asistida por IA.
 
@@ -85,6 +85,8 @@ Estoy disponible para proyectos pequeños, pilotos y colaboraciones relacionados
 
 Si conoces un negocio con información, archivos o seguimiento repartidos entre varias herramientas, una presentación directa puede ser suficiente para revisar el problema y proponer una primera solución pequeña y verificable.
 
+- [Solicitar un servicio](https://miguelangelruizfull-ai.github.io/servicios.html#solicitar)
+- [Servicios](https://miguelangelruizfull-ai.github.io/servicios.html)
 - [LinkedIn](https://www.linkedin.com/in/miguel-angel-ruiz-ramirez-8a5991370)
 - [Portafolio profesional](https://miguelangelruizfull-ai.github.io/)
 - [Caso aplicado y evidencia técnica](https://miguelangelruizfull-ai.github.io/AFL_AUTOS_LOCAL/PORTAFOLIO/)
